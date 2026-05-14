@@ -155,10 +155,15 @@ header p a {
   padding-left: 22px;
 }
 
+#sub_content ul li {
+  margin-bottom: 10px;
+}
+
 #page-navi ul {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
+  padding: 0;
 }
 
 #page-navi ul li a {
