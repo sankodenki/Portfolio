@@ -206,7 +206,16 @@ footer p {
   .hero_text {
     padding:25px 30px
   }
-  
+  .hero_text h1 {
+  font-size: 2.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.hero_text h2 {
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+}
+
   .introduction {
     max-width: 90%;
   }

@@ -171,6 +171,10 @@ header p a {
   color: #333;
 }
 
+#page-navi ul li a:hover {
+  color: #8c7a6b;
+}
+
 /* footer */
 footer {
   margin-top: 70px;
